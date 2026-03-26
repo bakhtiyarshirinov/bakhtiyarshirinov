@@ -1,36 +1,53 @@
 # 🚀 Bakhtiyar Shirinov
 
-Frontend Developer focused on building modern, responsive and animated web applications.
+**Frontend Developer** passionate about crafting modern, responsive, and visually engaging web applications with smooth animations and great user experiences.
 
 ---
 
 ## 🛠 Tech Stack
 
 ### Frontend
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![React Native](https://img.shields.io/badge/React%20Native-black?style=for-the-badge&logo=react)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwind-css)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend
-![.NET](https://img.shields.io/badge/.NET-black?style=for-the-badge&logo=dotnet)
-![C#](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=c-sharp)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ### Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)
-![MS%20SQL](https://img.shields.io/badge/MSSQL-black?style=for-the-badge&logo=microsoft-sql-server)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 ---
 
-## 🔥 Projects
+## 🔥 Featured Projects
 
-### 🚗 Baku Rent A Car
-Modern animated landing page with clean UI and smooth UX.
+### 🎬 Online Cinema  
+A full-featured movie streaming platform with a sleek interface, user authentication, and dynamic content loading.  
 
-👉 https://github.com/bakhtiyarshirinov/BakuCarRental
+🔗 [View Repository](https://github.com/bakhtiyarshirinov/Cinema-web-site)
+
+### 🍽️ FoodSavory  
+A modern catering service website showcasing menus, services, and easy booking functionality.  
+
+🔗 [View Repository](https://github.com/bakhtiyarshirinov/FoodSavory)
+
+### 🚗 Baku Rent A Car  
+A visually appealing landing page for a car rental service with smooth animations and a clean, responsive layout.  
+
+🔗 [View Repository](https://github.com/bakhtiyarshirinov/BakuCarRental)
 
 ---
 
-## 📫 Contact
+## 📫 Connect with Me
 
-- Email: bshirinovv@gmail.com
+- 📧 Email: [bshirinovv@gmail.com](mailto:bshirinovv@gmail.com)
+- 🐙 GitHub: [@bakhtiyarshirinov](https://github.com/bakhtiyarshirinov)
+
+---
+
+<p align="center">
+  <i>Let's build something amazing together! ✨</i>
+</p>
