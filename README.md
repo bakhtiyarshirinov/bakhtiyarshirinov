@@ -39,6 +39,9 @@ A visually appealing landing page for a car rental service with smooth animation
 
 🔗 [View Repository](https://github.com/bakhtiyarshirinov/BakuCarRental)
 
+
+###  A full-stack pizza delivery application with a dynamic menu, shopping cart, and responsive checkout system.
+🔗 [View Repository](https://github.com/bakhtiyarshirinov/pizza-delivery)
 ---
 
 ## 📫 Connect with Me
