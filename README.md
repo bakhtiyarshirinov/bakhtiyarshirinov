@@ -40,8 +40,15 @@ A visually appealing landing page for a car rental service with smooth animation
 🔗 [View Repository](https://github.com/bakhtiyarshirinov/BakuCarRental)
 
 
-###  A full-stack pizza delivery application with a dynamic menu, shopping cart, and responsive checkout system.
-🔗 [View Repository](https://github.com/bakhtiyarshirinov/pizza-delivery)
+### Pizza Delivery
+A full-stack pizza delivery application with a dynamic menu, shopping cart, and responsive checkout system.
+[View Repository](https://github.com/bakhtiyarshirinov/pizza-delivery)
+
+### SunTrack StartUp
+
+🌐 Full-featured web platform developed for SunTrack (Green-tech Startup). Showcasing modern frontend architecture, responsive design, and clean code principles.
+[View Repository](https://github.com/bakhtiyarshirinov/SunTrack)
+
 ---
 
 ## 📫 Connect with Me
