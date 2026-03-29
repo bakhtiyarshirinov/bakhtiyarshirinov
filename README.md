@@ -26,7 +26,7 @@ Passionate about crafting modern, responsive, and visually engaging web applicat
 
 ### 🎬 Online Cinema
 A full-featured movie streaming platform with a sleek interface, user authentication, and dynamic content loading.
-* **Tech:** React, Tailwind CSS, API Integration
+* **Tech:** React, Tailwind CSS, API Integration , .NET , PostgreSQL
 * 🔗 [View Repository](https://github.com/bakhtiyarshirinov/Cinema-web-site)
 
 ### 🍕 Pizza Delivery
@@ -46,7 +46,7 @@ A modern catering service website featuring elegant menus, services showcase, an
 
 ### 🚗 Baku Rent A Car
 A visually appealing landing page for a car rental service with smooth animations and a mobile-first layout.
-* **Tech:** HTML5, CSS3, JavaScript, AOS Library
+* **Tech:** React, Framer Motion, CSS Modules
 * 🔗 [View Repository](https://github.com/bakhtiyarshirinov/BakuCarRental)
 
 ---
