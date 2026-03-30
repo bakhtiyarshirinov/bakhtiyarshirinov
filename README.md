@@ -10,16 +10,28 @@
   I am a developer dedicated to building modern, responsive, and visually captivating web applications. My passion lies in smooth animations, clean code, and intuitive UI/UX that creates a seamless journey for every user.
 </p>
 
+
+
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bakhtiyarshirinov&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Bakhtiyar's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bakhtiyarshirinov&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=bakhtiyarshirinov&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Bakhtiyar's GitHub Stats" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bakhtiyarshirinov&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
+
+
 
 ## 🛠 Technical Ecosystem
 
