@@ -24,9 +24,14 @@ Passionate about crafting modern, responsive, and visually engaging web applicat
 
 ## 🔥 Featured Projects
 
+### 🎮 Baku Cyber Club
+A modern platform for a gaming hub featuring high-performance design, interactive components, and a seamless user interface.
+* **Tech:** Next.js, React, Tailwind CSS, Framer Motion
+* 🔗 [View Repository](https://github.com/bakhtiyarshirinov/baku-cyber-club)
+
 ### 🎬 Online Cinema
 A full-featured movie streaming platform with a sleek interface, user authentication, and dynamic content loading.
-* **Tech:** React, Tailwind CSS, API Integration , .NET , PostgreSQL
+* **Tech:** React, Tailwind CSS, .NET, PostgreSQL
 * 🔗 [View Repository](https://github.com/bakhtiyarshirinov/Cinema-web-site)
 
 ### 🍕 Pizza Delivery
@@ -55,7 +60,7 @@ A visually appealing landing page for a car rental service with smooth animation
 
 * 📧 **Email:** [bshirinovv@gmail.com](mailto:bshirinovv@gmail.com)
 * 🐙 **GitHub:** [@bakhtiyarshirinov](https://github.com/bakhtiyarshirinov)
-* 💼 **LinkedIn:** [[bakhtiyarshirinov](https://www.linkedin.com/in/bakhtiyar-shirinov-5324373bb/)]
+* 💼 **LinkedIn:** [bakhtiyarshirinov](https://www.linkedin.com/in/bakhtiyar-shirinov-5324373bb/)
 
 ---
 
