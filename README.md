@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1200&color=06B6D4&center=true&vCenter=true&width=750&lines=Bakhtiyar+Shirinov;Fullstacj+Developer;Next.js+%7C+React+%7C+TypeScript;Crafting+Smooth+Digital+Experiences" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1200&color=06B6D4&center=true&vCenter=true&width=750&lines=Bakhtiyar+Shirinov;Fullstack+Developer;Next.js+%7C+React+%7C+TypeScript;Crafting+Smooth+Digital+Experiences" />
 </p>
 
 <h3 align="center">🚀 Fullstack developer</h3>
