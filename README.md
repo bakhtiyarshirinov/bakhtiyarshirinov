@@ -22,15 +22,6 @@ Next.js • React • TypeScript • Tailwind
 
 ## 🔥 Featured Projects
 
-### 🎮 Baku Cyber Arena
-
-Modern gaming platform with immersive UI & animations
-
-**Stack:** Next.js, Tailwind, Framer Motion
-
-🔗 https://github.com/bakhtiyarshirinov/baku-cyber-club
-
----
 
 ### 🎬 Online Cinema
 
