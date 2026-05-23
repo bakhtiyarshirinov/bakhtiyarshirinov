@@ -1,50 +1,90 @@
-# Hi, I'm Bakhtiyar 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1200&color=06B6D4&center=true&vCenter=true&width=750&lines=Bakhtiyar+Shirinov;Frontend+Engineer;Next.js+%7C+React+%7C+TypeScript;Crafting+Smooth+Digital+Experiences" />
+</p>
 
-### Software Engineer building modern web products
+<h3 align="center">🚀 Fullstack developer</h3>
 
-I focus on creating scalable applications, clean architecture, and smooth user experiences.
-
-* ⚡ Building real-world products
-* 🧠 Learning backend engineering with .NET & PostgreSQL
-* 🎨 Passionate about UX, motion & polished interfaces
-* 🚀 Interested in full-stack product development
+<p align="center">
+I build fast, scalable, and visually polished web applications.<br/>
+Specializing in modern frontend stacks, smooth animations, and production-ready UI.
+</p>
 
 ---
 
-## 🛠 Stack
+## ⚡ About Me
 
-```txt
-Next.js • React • TypeScript • Tailwind
-.NET • PostgreSQL • Docker
-```
+- 💻 Frontend Developer (Next.js / React ecosystem)
+- 🎯 Focused on **real-world products**, not just pet projects  
+- 🧠 Learning backend architecture (.NET, PostgreSQL) to become **full-stack**
+- 🎨 Strong attention to **UI/UX & micro-interactions**
+- 📍 Based in Baku, open to remote opportunities  
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,js,html,css,framer,nodejs,dotnet,cs,postgres,docker" />
+</p>
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=bakhtiyarshirinov&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 🔥 Featured Projects
 
-
-### 🎬 Online Cinema
-
-Full-stack movie platform with authentication & dynamic content
-
-**Stack:** React, .NET, PostgreSQL
-
-🔗 https://github.com/bakhtiyarshirinov/Cinema-web-site
+### 🎬 Online Cinema  
+Full-stack movie platform with authentication & dynamic content  
+**Stack:** React, Tailwind, .NET, PostgreSQL  
+🔗 https://github.com/bakhtiyarshirinov/Cinema-web-site  
 
 ---
 
-### 🍕 Pizza Delivery
+### 🍕 Pizza Delivery  
+E-commerce food delivery app with responsive UI  
+**Stack:** Next.js, Tailwind  
+🔗 https://github.com/bakhtiyarshirinov/pizza-delivery  
 
-Responsive food delivery application
+---
 
-**Stack:** Next.js, Tailwind
+### 🍽️ FoodSavory  
+Elegant catering website with modern animations  
+**Stack:** React, Framer Motion  
+🔗 https://github.com/bakhtiyarshirinov/FoodSavory  
 
-🔗 https://github.com/bakhtiyarshirinov/pizza-delivery
+---
+
+## 🧠 What I Care About
+
+- Clean & maintainable code
+- Performance optimization
+- Real product experience
+- UX that feels **smooth and alive**
 
 ---
 
 ## 📫 Contact
 
-* GitHub: https://github.com/bakhtiyarshirinov
-* LinkedIn: https://www.linkedin.com/in/bakhtiyar-shirinov-5324373bb/
-* Email: [bshirinovv@gmail.com](mailto:bshirinovv@gmail.com)
+<p align="center">
+  <a href="mailto:bshirinovv@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/bakhtiyarshirinov">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/bakhtiyar-shirinov-5324373bb/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Simple. Fast. Clean."</i>
+</p>Переделай я не позицианируб себя как front 
